@@ -121,6 +121,7 @@ hr{
   width: 303px;
   height: 303px;
   border-radius: 8px;
+  transition: 0.9s;
   
 }
 
@@ -129,6 +130,7 @@ hr{
   top: 151px;
   left: 151px;
   z-index: -1;
+  transition: 0.3s;
 }
 
 
